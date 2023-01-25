@@ -1,2 +1,22 @@
-# Freeway
-Desenvolvimento de um jogo Freeway, em JavaScript 
+<img class="size-full wp-image-18722 aligncenter" src="https://www.makerzine.com.br/wp-content/uploads/2023/01/Freeway_Cover.jpg" alt="" width="269" height="371" />
+
+Desenvolvimento de um jogo FREEWAY, em JavaScript. Arquivos utilizados:
+<ul>
+ 	<li>ator-1.png, para acessar o arquivo, <a href="https://github.com/rodrigorissettoterra/Freeway/blob/main/ator-1.png" target="_blank" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em>clique aqui</em></span></a>.</li>
+ 	<li>ator.js, para acessar o arquivo, <a href="https://github.com/rodrigorissettoterra/Freeway/blob/main/ator.js" target="_blank" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em>clique aqui</em></span></a>.</li>
+ 	<li>carro-1.png, para acessar o arquivo, <a href="https://github.com/rodrigorissettoterra/Freeway/blob/main/carro-1.png" target="_blank" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em>clique aqui</em></span></a>.</li>
+ 	<li>carro-2.png, para acessar o arquivo, <a href="https://github.com/rodrigorissettoterra/Freeway/blob/main/carro-2.png" target="_blank" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em>clique aqui</em></span></a>.</li>
+ 	<li>carro-3.png, para acessar o arquivo, <a href="https://github.com/rodrigorissettoterra/Freeway/blob/main/carro-3.png" target="_blank" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em>clique aqui</em></span></a>.</li>
+ 	<li>carro.js, para acessar o arquivo, <a href="https://github.com/rodrigorissettoterra/Freeway/blob/main/carro.js" target="_blank" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em>clique aqui</em></span></a>.</li>
+ 	<li>colidiu.mp3, para acessar o arquivo, <a href="https://github.com/rodrigorissettoterra/Freeway/blob/main/colidiu.mp3" target="_blank" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em>clique aqui</em></span></a>.</li>
+ 	<li>estrada.png, para acessar o arquivo, <a href="https://github.com/rodrigorissettoterra/Freeway/blob/main/estrada.png" target="_blank" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em>clique aqui</em></span></a>.</li>
+ 	<li>freeway.js, para acessar o arquivo, <a href="https://github.com/rodrigorissettoterra/Freeway/blob/main/freeway.js" target="_blank" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em>clique aqui</em></span></a>.</li>
+ 	<li>imagens_e_sons.js, para acessar o arquivo, <a href="https://github.com/rodrigorissettoterra/Freeway/blob/main/imagens_e_sons.js" target="_blank" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em>clique aqui</em></span></a>.</li>
+ 	<li>index.html, para acessar o arquivo, <a href="https://github.com/rodrigorissettoterra/Freeway/blob/main/index.html" target="_blank" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em>clique aqui</em></span></a>.</li>
+ 	<li>p5.collide2d.js, para acessar o arquivo, <a href="https://github.com/rodrigorissettoterra/Freeway/blob/main/p5.collide2d.js" target="_blank" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em>clique aqui</em></span></a>.</li>
+ 	<li>p5.sound.min.js, para acessar o arquivo, <a href="https://github.com/rodrigorissettoterra/Freeway/blob/main/p5.sound.min.js" target="_blank" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em>clique aqui</em></span></a>.</li>
+ 	<li>pontos.wav, para acessar o arquivo, <a href="https://github.com/rodrigorissettoterra/Freeway/blob/main/pontos.wav" target="_blank" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em>clique aqui</em></span></a>.</li>
+ 	<li>style.css, para acessar o arquivo, <a href="https://github.com/rodrigorissettoterra/Freeway/blob/main/style.css" target="_blank" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em>clique aqui</em></span></a>.</li>
+ 	<li>trilha.mp3, para acessar o arquivo, <a href="https://github.com/rodrigorissettoterra/Freeway/blob/main/trilha.mp3" target="_blank" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em>clique aqui</em></span></a>.</li>
+</ul>
+Biblioteca utilizada: <a href="https://github.com/bmoren/p5.collide2D" target="_blank" rel="nofollow noopener noreferrer"><span style="text-decoration: underline;"><em>P5.Collide2D</em></span></a>
